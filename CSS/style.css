@@ -1,0 +1,21 @@
+img {
+width: 400px;
+
+}
+span{
+    padding: 1px 10px;
+    border: 1rem;
+   
+}
+.opacity{
+    opacity: 0.5;
+}
+
+.word{
+    font-family: "Arial Black", "Arial Bold";
+}
+p {
+    width: 350px;
+    padding: 5px 25px;
+    color: rgb(149, 147, 151);
+}
